@@ -7,4 +7,5 @@ function upperCaseCustomerName(customerName) {
 }
 function upperCaseCustomerName() {
   cunstomerName = "bob";
-   = customerName.toUpperCase();
+   upperCaseCustomerName = customerName.toUpperCase();
+}
